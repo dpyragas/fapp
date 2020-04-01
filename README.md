@@ -1,0 +1,2 @@
+# fapp
+F# Console Application
